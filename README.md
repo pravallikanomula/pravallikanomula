@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">👋 Hello, I'm Pravallika Nomula</h1>
 
-<!--
-**pravallikanomula/pravallikanomula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Data & Machine Learning Enthusiast | Turning curiosity into insight 🔍</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+A curious problem-solver who enjoys exploring the intersection of **data, code, and creativity**.  
+I analyze, clean, and visualize data to tell meaningful stories — and occasionally automate the boring stuff 🤖.  
+Currently growing in **data analytics, applied ML, and full-stack development**.
+
+---
+
+### 📊 What I Do
+- 🧩 Querying, cleaning, and transforming data using **SQL** and **Python (Pandas, NumPy)**  
+- 📈 Building interactive dashboards and reports using **Tableau** and **Power BI**  
+- ⚙️ Automating workflows and data validation tasks using **Python scripting**  
+- 📚 Exploring **machine learning** and **LLMs** for real-world insights  
+- 🧾 Designing efficient **data pipelines** and auditing tools for structured analysis  
+
+---
+
+### 🛠️ Tools & Technologies
+
+**Languages:** Python, SQL, JavaScript  
+**Databases:** PostgreSQL, MySQL, SQL Server  
+**Visualization:** Tableau, Power BI, Looker Studio  
+**Other:** Excel, Google Sheets, Docker, Git, Streamlit, Flutter  
+
+---
+
+### 💡 Fun Facts
+- ☕ Debugging fuel: *Coffee + chill playlists*  
+- 🍛 Favorite side project: an Electron-based **Biryani Timer** (yes, really!)  
+- 🧠 Motto: *"Curiosity is the best algorithm."*  
+
+---
+
+### 👋🏻 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pravallika-nomula/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pravallikanomula@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/pravallikanomula">
+    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>“Turning data into stories, and ideas into reality.” 🌟</em>
+</p>
+
