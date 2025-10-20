@@ -1,7 +1,5 @@
 ![Banner](./banner.jpg)
 
-<h1 align="center">👋 Hello, I'm Pravallika Nomula</h1>
-
 <p align="center">
   <em>Data & Machine Learning Enthusiast | Turning curiosity into insight 🔍</em>
 </p>
