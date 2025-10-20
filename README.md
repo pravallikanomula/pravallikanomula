@@ -14,11 +14,11 @@ Currently growing in **data analytics, applied ML, and full-stack development**.
 ---
 
 ### 📊 What I Do
-- 🧩 Querying, cleaning, and transforming data using **SQL** and **Python (Pandas, NumPy)**  
-- 📈 Building interactive dashboards and reports using **Tableau** and **Power BI**  
-- ⚙️ Automating workflows and data validation tasks using **Python scripting**  
-- 📚 Exploring **machine learning** and **LLMs** for real-world insights  
-- 🧾 Designing efficient **data pipelines** and auditing tools for structured analysis  
+- Querying, cleaning, and transforming data using **SQL** and **Python (Pandas, NumPy)**  
+- Building interactive dashboards and reports using **Tableau** and **Power BI**  
+- Automating workflows and data validation tasks using **Python scripting**  
+- Exploring **machine learning** and **LLMs** for real-world insights  
+- Designing efficient **data pipelines** and auditing tools for structured analysis  
 
 ---
 
@@ -32,7 +32,9 @@ Currently growing in **data analytics, applied ML, and full-stack development**.
 ---
 
 ### 💡 Fun Facts
-- ☕ Debugging fuel: *Coffee + chill playlists*  
+- 🎧 Debugging fuel: Soft indie playlists & calm vibes
+- 🧩 Love solving puzzles and brain teasers — anything that makes me think twice
+- ➗ Math is my comfort zone — there’s beauty in logic and structure
 - 🍛 Favorite side project: an Electron-based **Biryani Timer** (yes, really!)  
 - 🧠 Motto: *"Curiosity is the best algorithm."*  
 
