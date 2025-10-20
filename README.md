@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./banner.jpg)
 
 <h1 align="center">👋 Hello, I'm Pravallika Nomula</h1>
 
