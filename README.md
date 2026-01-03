@@ -43,7 +43,7 @@ Currently growing in **data analytics, applied ML, and full-stack development**.
 ### 👋🏻 Connect with Me
 
  <p>
-  - <a href="www.linkedin.com/in/pravallika-nomula-78340b2ab" target="_blank">Linkedin</a>
+  - <a href="https://www.linkedin.com/in/pravallika-nomula-78340b2ab" target="_blank">Linkedin</a>
 </p>
 
 ---
